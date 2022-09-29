@@ -36,11 +36,9 @@
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
 | CSS Styling and Mobile Focus | H | 4hr | hr |
-| Links Transition | L | 4hr | -hr | hr |
-| Interactive Links | M | 4hr | hr |
-| Materialize | H | 4hr | -hr | hr |
-| Make own Animated Icon | L | 4hr | hr |
-| Total | H | 20hrs| hrs |
+| Interactive Links | L | 4hr | hr | hr |
+| Make Animated Transitions | M | 8hr | hr |
+| Total | H | 16hrs| hrs |
 
 
 ## Additional Libraries Used
