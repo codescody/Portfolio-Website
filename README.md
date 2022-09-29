@@ -23,15 +23,13 @@
 #### MVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Hamburger Menu | H | 1hr | hr |
-| Project Previews | H | 3hr | hr |
-| Regular Nav | H | 1hr | hr |  
-| Adding Form | H | 1.5hr|  hr | 
-| Other sections and flex| M | 3hr | hr|
-| Working with API | H | 3hrs|  hr | 
+| Custom Name | H | 2hr | hr |
+| Project Preview | H | 3hr | hr |
+| Vertical List | H | 3hr | hr |   
+| Other sections and flex| M | 3hr | hr| 
 | Responsive | H | 3hr | hr | hr |
 | Social Media Icons | L | 1hr |  hr |
-| Total | H | 15.5hrs| hrs |
+| Total | H | 15hrs| hrs |
 
 
 #### PostMVP
