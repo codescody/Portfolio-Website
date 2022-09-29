@@ -15,7 +15,7 @@
 
 ## Wireframes
 
-![my cool wireframe image](/img/screenshot.png)
+![](img/Screen%20Shot%202022-09-28%20at%202.29.00%20PM%20Medium.png)
 
 ## Time/Priority Matrix 
 
