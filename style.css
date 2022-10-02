@@ -22,6 +22,9 @@ div {
     text-align: center;
     padding: 1%;
 }
+a {
+    color: black;
+}
 #main-container {
     display: flex;
     height: 97vh;
@@ -56,8 +59,15 @@ div {
     background-image: url('img/AdobeStock_525972176.jpeg');
     background-size: cover;
 }
+#about-profile {
+    background-image: url('');
+}
 #about-cody {
     font-size: 25px;
+    border-radius: 20px;
+    margin: 50px 50px 50px 50px;
+    background-color: #121e27;
+    
 }
 #skills-container {
     height: 75vh;
