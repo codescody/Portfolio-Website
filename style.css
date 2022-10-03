@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:200,400,700");
 * {
     margin: 0;
     padding: 0;
@@ -6,8 +7,7 @@ html {
     scroll-behavior: smooth;
 } 
 div {
-    font-family: Arial, Helvetica, sans-serif;
-    border: 1px solid black;
+    font-family: "Montserrat", sans-serif;
 }
 #home-container {
     background-image: url('img/AdobeStock_281625493.jpeg');
@@ -16,6 +16,7 @@ div {
 #nav-container {
     display: flex;
     flex-direction: row;
+    font-weight: 700;
 }
 .nav-box {
     flex: 1;
@@ -24,6 +25,10 @@ div {
 }
 a {
     color: black;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
 }
 #main-container {
     display: flex;
@@ -31,6 +36,7 @@ a {
     text-align: center;
     justify-content: center;
     flex-flow: column nowrap;
+    font-weight: 700;
 }
 #intro-container {
    justify-content: center;
@@ -38,7 +44,7 @@ a {
 }
 #projects-container {
     display: flex;
-    height: 75vh;
+    height: 100vh;
     text-align: center;
     justify-content: center;
     padding: 1%;
@@ -52,38 +58,56 @@ a {
     justify-content: space-around;
 }
 #about-container {
-    height: 75vh;
+    display: flex;
+    height: 100vh;
     text-align: center;
     justify-content: center;
+    align-items: center;
     padding: 1%;
     background-image: url('img/AdobeStock_525972176.jpeg');
     background-size: cover;
 }
 #about-profile {
-    background-image: url('');
+    background-image: url("img/Profile.jpeg");
+    background-size: cover;
+    z-index: 999;
+    height: 80vh;
+    width: 40vw;
+    border-radius: 30px;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 #about-cody {
-    font-size: 25px;
+    font-size: 25px;;
     border-radius: 20px;
-    margin: 50px 50px 50px 50px;
-    background-color: #121e27;
-    
+    max-width: 50%;
+    margin: auto;
+    font-weight: 700;
 }
 #skills-container {
-    height: 75vh;
+    height: 80vh;
     text-align: center;
-    justify-content: center;
-    padding: 1%;
+    justify-content: space-between;
+    padding: 5%;
     background-color: #121e27;
 }
 #bottom-container {
-    height: 25vh;
+    display: flex;
+    height: 15vh;
     text-align: center;
-    justify-content: center;
+    align-items: center;
     padding: 1%;
     background-image: url('img/AdobeStock_513557023.jpeg');
     background-size: cover;
-
+    justify-content: space-around;
 }
+input {
+ border-color: lightgrey;
+}
+i {
+    font-size: 200px;
+}
+
+
 
 
