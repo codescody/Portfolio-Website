@@ -47,7 +47,7 @@ a:hover {
 }
 #intro-container {
    justify-content: center;
-   font-size: 60px;
+   font-size: 5em;
 }
 #projects-container {
     display: flex;
@@ -59,13 +59,12 @@ a:hover {
 }
 .showcase-projects {
     width: 100%;
-    margin: 50px 50px 50px 50px;
+    margin: 5em;
     background-color: rgba(230, 221, 221, 0.943);
     border-radius: 40px;
     justify-content: space-around;
 }
 #about-container {
-    display: flex;
     height: 100vh;
     text-align: center;
     justify-content: center;
@@ -78,14 +77,12 @@ a:hover {
     background-image: url("img/Profile.jpeg");
     background-size: cover;
     z-index: 999;
-    height: 80vh;
-    width: 40vw;
+    height: 20vh;
+    width: 80vw;
     border-radius: 30px;
-    margin-top: auto;
-    margin-bottom: auto;
 }
 #about-cody {
-    font-size: 25px;;
+    font-size: 1.4em;
     border-radius: 20px;
     max-width: 50%;
     margin: auto;
@@ -96,12 +93,7 @@ a:hover {
     text-align: center;
     justify-content: space-between;
     background-color: #121e27;
-    padding: 5%;
-}
-#skills-title {
-    font-size: 50px;
-    font-weight: 700;
-    margin-bottom: 10%;
+    padding-top: 20%;
 }
 #bottom-container {
     display: flex;
@@ -117,8 +109,65 @@ input {
  border-color: lightgrey;
 }
 i {
-    font-size: 200px;
+    font-size: 6em;
 }
+@media (min-width: 320px) {
+    i {
+        font-size: 8em;
+    }
+    #about-container {
+        display: block;
+    }
+    #about-profile {
+        margin-left: 10%;
+        background-size: contain nowrap;
+        height: 40vh;
+        width: 80vw;
+    }
+    #about-cody {
+        font-size: 1.5em;
+    }
+}
+@media (min-width: 480px) {
+    i {
+        font-size: 9em;
+    }
+    #about-profile {
+        height: 70vh
+    }
+}
+@media (min-width: 768px) {
+    i {
+        font-size: 11em;
+    }
+    #about-profile {
+        height: 50vh
+    }
+    #about-container {
+        display: flex;
+    }
+}
+@media (min-width: 992px) {
+    i {
+        font-size: 13em;
+    }
+    #about-profile {
+        height: 65vh;
+        width: 40vw;
+    }
+    #about-container {
+        display: flex;
+    }
+}
+@media (min-width: 1200px) {
+    i {
+        font-size: 16em;
+    }
+    #about-container {
+        display: flex;
+    }
+}
+
 
 
 
