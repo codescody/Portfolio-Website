@@ -6,12 +6,19 @@
 html {
     scroll-behavior: smooth;
 } 
-div {
+body {
     font-family: "Montserrat", sans-serif;
 }
 #home-container {
     background-image: url('img/AdobeStock_281625493.jpeg');
     background-size: cover; 
+}
+span {
+    opacity: 0;
+    transition: all 1s ease;
+}
+span.fade {
+    opacity: 1;
 }
 #nav-container {
     display: flex;
@@ -88,8 +95,13 @@ a:hover {
     height: 80vh;
     text-align: center;
     justify-content: space-between;
-    padding: 5%;
     background-color: #121e27;
+    padding: 5%;
+}
+#skills-title {
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 10%;
 }
 #bottom-container {
     display: flex;
