@@ -17,7 +17,7 @@ span {
     opacity: 0;
     transition: all 1s ease;
 }
-span.fade {
+span.fadeIn {
     opacity: 1;
 }
 #nav-container {
