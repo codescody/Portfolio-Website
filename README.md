@@ -10,7 +10,7 @@
 |Day 2| Wireframes / Priority Matrix / Timeline | Complete
 |Day 3| Core Application Structure (HTML, CSS, etc.) | Complete
 |Day 4| MVP & Bug Fixes | Complete
-|Day 5| Final Touches | Incomplete
+|Day 5| Final Touches | Complete
 |Day 6| Present | Incomplete
 
 ## Wireframes
@@ -43,17 +43,12 @@
 
 ## Additional Libraries Used
 
- Use this section to list all supporting libraries and thier role in the project. 
+ No libraries used
 
 ## Code Snippet
 
-Use this section to include a brief code snippet of functionality that you are proud of an a brief description  
-
-```
-function myCoolThing() {
-	// here is the code to do something really cool!
-```
+Particularly proud of the testing and first time use of media queries to make images and formats readable.
 
 ## Issues and Resolutions
 
- Use this section to list of all major issues encountered and their resolution.
+ Took time to figure out the right positioning for each element but with enough practice flex was starting to become easier. Media queries were difficult at first with images and font sizing but was able to find proper values that made it easier. Javascript was challenging to figure out but managed to get my first animation working.
