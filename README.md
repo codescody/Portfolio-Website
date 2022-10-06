@@ -15,13 +15,13 @@
 
 ## Wireframes
 
-![](img/Screen%20Shot%202022-10-05%20at%202.56.47%20PM.png)
+![](img/screen1.png)
 
-![](img/Screen%20Shot%202022-10-05%20at%202.57.30%20PM.png)
+![](img/screen2.png)
 
-![](img/Screen%20Shot%202022-10-05%20at%202.58.15%20PM.png)
+![](img/screen3.png)
 
-![](img/Screen%20Shot%202022-10-05%20at%202.59.31%20PM.png)
+![](img/screen4.png)
 
 ## Time/Priority Matrix 
 
