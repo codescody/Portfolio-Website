@@ -15,7 +15,13 @@
 
 ## Wireframes
 
-![](img/Screen%20Shot%202022-09-28%20at%202.29.00%20PM%20Medium.png)
+![](img/Screen%20Shot%202022-10-05%20at%202.56.47%20PM.png)
+
+![](img/Screen%20Shot%202022-10-05%20at%202.57.30%20PM.png)
+
+![](img/Screen%20Shot%202022-10-05%20at%202.58.15%20PM.png)
+
+![](img/Screen%20Shot%202022-10-05%20at%202.59.31%20PM.png)
 
 ## Time/Priority Matrix 
 
@@ -23,22 +29,21 @@
 #### MVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Custom Name | H | 2hr | hr |
 | Project Preview | H | 3hr | hr |
-| Vertical List | H | 3hr | hr |   
-| Other sections and flex| M | 3hr | hr| 
-| Responsive | H | 3hr | hr | hr |
-| Social Media Icons | L | 1hr |  hr |
+| Horizontal Nav | H | 2hr | hr |   
+| Other sections and flex| M | 5hr | hr| 
+| Responsive | H | 4hr | hr | hr |
+| Skills Icons | L | 1hr |  hr |
 | Total | H | 15hrs| hrs |
 
 
 #### PostMVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| CSS Styling and Mobile Focus | H | 4hr | hr |
-| Interactive Links | L | 4hr | hr | hr |
-| Make Animated Transitions | M | 8hr | hr |
-| Total | H | 16hrs| hrs |
+| CSS Styling Polishing | H | 4hr | hr |
+| Media Queries | L | 4hr | hr | hr |
+| Make Home Animation | M | 3hr | hr |
+| Total | H | 11hrs| hrs |
 
 
 ## Additional Libraries Used
